@@ -1,5 +1,9 @@
 presto-client-ruby
 ====
+## 0.6.7
+- Merge pull request [#1](https://github.com/treasure-data/presto-client-ruby/issues/1) from lucasmpb/fix-faraday-middleware-version [[9554f19](https://github.com/treasure-data/presto-client-ruby/commit/9554f19)]
+- Update faraday_middleware version [[26c5f24](https://github.com/treasure-data/presto-client-ruby/commit/26c5f24)]
+
 ## 0.6.6
 * Added error_type and error_location field at PrestoQueryError
 
